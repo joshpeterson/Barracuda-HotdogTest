@@ -148,6 +148,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.unity3d.barracuda.hotdogtest
     Standalone: com.Barracuda.HotdogTest
+    iOS: com.Barracuda.HotdogTest
     iPhone: com.unity3d.barracuda.hotdogtest
   buildNumber:
     Standalone: 0
