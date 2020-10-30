@@ -146,7 +146,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.unity3d.barracuda.hotdogtest
+    Android: com.Barracuda.HotdogTest
     Standalone: com.Barracuda.HotdogTest
     iOS: com.Barracuda.HotdogTest
     iPhone: com.unity3d.barracuda.hotdogtest
@@ -657,7 +657,7 @@ PlayerSettings:
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
-    Android: 0
+    Android: 1
     Standalone: 1
   il2cppCompilerConfiguration: {}
   managedStrippingLevel: {}
